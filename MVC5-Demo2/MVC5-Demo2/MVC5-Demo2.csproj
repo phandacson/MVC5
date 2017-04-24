@@ -223,6 +223,15 @@
     <Content Include="Scripts\modernizr-2.6.2.js" />
     <Content Include="Scripts\respond.js" />
     <Content Include="Scripts\respond.min.js" />
+    <Content Include="Theme\natural_signin_form\css\style.css" />
+    <Content Include="Theme\natural_signin_form\images\b1.jpg" />
+    <Content Include="Theme\natural_signin_form\images\dott.png" />
+    <Content Include="Theme\natural_signin_form\images\e-mail.png" />
+    <Content Include="Theme\natural_signin_form\images\password.png" />
+    <Content Include="Theme\natural_signin_form\images\send1.png" />
+    <Content Include="Theme\natural_signin_form\images\tick.png" />
+    <Content Include="Theme\natural_signin_form\index.html" />
+    <Content Include="Theme\natural_signin_form\w3layouts-License.txt" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
